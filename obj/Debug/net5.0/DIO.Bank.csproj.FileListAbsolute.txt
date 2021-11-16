@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Admin\Desktop\DigitalOne\8- AppBank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
